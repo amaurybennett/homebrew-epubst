@@ -10,7 +10,7 @@ class Epubst < Formula
   on_macos do
     if Hardware::CPU.arm?
       url "https://github.com/amaurybennett/epubst/releases/download/v1.0.1/epubst-osx-arm64.tar.gz"
-      sha256 "cd0d4577a4b932218666d62b83f2353c1e39f51ef8354ddd8625c6a3fd106a91"
+      sha256 "4005239a92a0c771e11761118a60431e07b66dd27b330c77a746c2abe0ac413e"
     end
   end
 
